@@ -1,1 +1,2 @@
 Clone the repo from remote server
+test the commit commands
